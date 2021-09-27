@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mohammad.zeeshan1\\Downloads\\RecyclerView-Native-ads-Example-main\\RecyclerView-Native-ads-Example-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mohammad.zeeshan1\\.gradle\\caches\\transforms-2\\files-2.1\\34b9c51d8cf364f2c47288d48f1d61cb\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "401,471,555,639,735,837,939,1033",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "466,550,634,730,832,934,1028,1117"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mohammad.zeeshan1\\Downloads\\RecyclerView-Native-ads-Example-main\\RecyclerView-Native-ads-Example-main\\nativetemplates\\build\\intermediates\\packaged_res\\debug\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,139,201,252,305,357",
+                        "endColumns": "40,42,61,50,52,51,43",
+                        "endOffsets": "91,134,196,247,300,352,396"
+                    }
+                }
+            ]
+        }
+    ]
+}

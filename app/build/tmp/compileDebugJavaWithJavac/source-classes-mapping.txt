@@ -1,0 +1,9 @@
+www/technovimal/in/nativerecyclerview/BuildConfig.java
+ www.technovimal.in.nativerecyclerview.BuildConfig
+www/technovimal/in/nativerecyclerview/Contact.java
+ www.technovimal.in.nativerecyclerview.Contact
+www/technovimal/in/nativerecyclerview/ContactsAdapter.java
+ www.technovimal.in.nativerecyclerview.ContactsAdapter
+ www.technovimal.in.nativerecyclerview.ContactsAdapter$ViewHolder
+www/technovimal/in/nativerecyclerview/MainActivity.java
+ www.technovimal.in.nativerecyclerview.MainActivity
